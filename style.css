@@ -1,0 +1,235 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.f_button{
+    color: black;
+    background-color: white;
+    padding: 20px;
+    border-radius: 9px;
+    font-size: 20px;
+}
+
+.main_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 200px;
+}
+
+.f_header{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.for_imga{
+    text-align: center;
+    margin-left: 500px;
+}
+.for_para{
+    font-size: xxx-large;
+    font-weight: bolder;
+    margin-left: 280px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.for_second{
+    margin-left: 300px;
+    font-size: 20px;
+    line-gap: 5px;
+}
+
+.for_button{
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 560px ;
+}
+
+.main_div{
+    background-image: url(images/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main{
+    max-width: 1100px;
+    margin: auto;
+}
+
+#for_background{
+     background-color: rgba(0,0,0, 2%);
+}
+.about_header{
+    padding-top: 80px;
+    margin-top: 60px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: center;
+    margin-left: 333px;
+}
+
+.about_description{
+    padding-top: 0px;
+    margin-left: 200px;
+    font-size: 20px;
+    color: #6c6c69;
+    padding-bottom: 50px;
+}
+
+.des_header{
+    padding-top: 50px;
+    color: #787875;
+    margin-left: 180px;
+    font-size: 35px;
+}
+
+.for_seer{
+   padding-top: 20px; 
+   padding-bottom: 20px;
+   margin-left:180px ;
+   font-size: 20px;
+   color: #6c6c69;
+}
+
+.second_button{
+    color: #787875;
+    width: auto;
+    padding: 15px;
+    font-size: 25px;
+    margin-left: 180px;
+}
+
+.box1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.for_change{
+    margin-right:auto ;
+}
+
+.for_more{
+    margin-left: 200px;
+}
+.box2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.logo_contanier {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.logo_name{
+    font-size: 40px;
+    color: black;
+}
+
+.logo_html{
+    background-color: rgb(254,236,245);
+    padding: 40px;
+    height: 250px;
+    width: 325px;
+    border-radius: 12px;
+}
+
+.logo_css{
+    background-color: rgb(244,250,254);
+    padding: 40px;
+    height: 250px;
+    width: 325px;
+    border-radius: 12px;
+}
+
+.logo_js{
+    background-color: rgb(252,250,254);
+    padding: 40px;
+    height: 250px;
+    width: 325px;
+    border-radius: 12px;  
+}
+/* .border_1{
+    display: flex;
+} */
+
+.border_1{
+    display: flex;
+    border: 2px solid black;
+    border: 2px solid #757575;
+    padding: 40px;
+    margin: 23px;
+    border-radius: 12px;
+}
+
+.lorem_Ip{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.for_white{
+    color: white;
+    align-items: center;
+    margin-left: 360px;
+    font-size: 40px;
+    padding-top: 50px;
+    margin-top: 60px;
+}
+
+.last_section{
+    background-image: url(images/handshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    background-position: center;
+}
+
+#feedback {
+    width: 250px;
+    /* display: block; */
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 12px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+}
+.submit {
+    width: 150px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 12px;
+    font-size: 25px;
+    color: black;
+    margin-left:50px ;
+}
+
+.for_flex {
+    display: inline-flex;
+    padding-bottom: 80px;
+    justify-content: space-between;
+}
+.l_div {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.footer_icon {
+    margin-right: 140px;
+    margin-bottom: 30px;
+}
+
+h2.l_header {
+    margin-left: 100px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
